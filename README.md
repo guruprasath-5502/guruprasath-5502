@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Guru Prasath K S</h1>
-<h3 align="center">A passionate Full Stack Developer and Programmer | 5th Year MSc Student in Software Systems | Eager to create impactful tech solutions | Embracing the journey of coding and problem-solving</h3>
+<h3 align="center">A passionate Full Stack Developer and Programmer | Final Year MSc Student in Software Systems | Eager to create impactful tech solutions | Embracing the journey of coding and problem-solving</h3>
 <br><br>
 
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
