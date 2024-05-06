@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/guruprasath-5502?tab=repositories](https://github.com/guruprasath-5502?tab=repositories)
 
-- 💬 Ask me about **react, mongodb, nodejs, data structures**
+- 💬 Ask me about **React, Mongodb, Node JS, Data Structures**
 
 - 📫 How to reach me **guruprasath2552@gmail.com**
 
