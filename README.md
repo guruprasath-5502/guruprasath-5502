@@ -23,14 +23,14 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<img align="left" alt="Cpp" width="40px" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="Javascript" width="40px" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img align="left" alt="Typescript" width="40px" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-<img align="left" alt="Mongodb" width="40px" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
-<img align="left" alt="Node JS" width="40px" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="React" width="40px" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<img align="left" alt="RabbitMQ" width="40px" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" />
-<img align="left" alt="GraphQL" width="40px" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" />
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img align="left" alt="Cpp" width="40px" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img align="left" alt="Javascript" width="40px" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img align="left" alt="Typescript" width="40px" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img align="left" alt="React" width="40px" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /></a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img align="left" alt="Node JS" width="40px" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img align="left" alt="Mongodb" width="40px" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" /></a>
+<a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"><img align="left" alt="RabbitMQ" width="40px" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" /></a>
+<a href="https://graphql.org" target="_blank" rel="noreferrer"><img align="left" alt="GraphQL" width="40px" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" /></a>
 <br><br><br>
 </p>
 
