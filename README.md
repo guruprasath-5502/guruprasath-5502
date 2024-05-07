@@ -34,4 +34,4 @@
 <br><br><br>
 </p>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/guru_prasath_2552?theme=dark&font=Mallanna&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Guru_Prasath_K_S?theme=dark&font=Mallanna&ext=heatmap)
