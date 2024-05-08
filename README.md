@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Guru Prasath K S</h1>
+<img align="right" src="https://komarev.com/ghpvc/?username=guruprasath-5502&label=Profile%20views&color=0e75b6&style=flat" alt="guruprasath-5502" />
+
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Guru+Prasath!;" /></h1>
 <h3 align="center">A passionate Full Stack Developer and Programmer | Final Year MSc Student in Software Systems | Eager to create impactful tech solutions | Embracing the journey of coding and problem-solving</h3>
 <br><br>
 
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=guruprasath-5502&label=Profile%20views&color=0e75b6&style=flat" alt="guruprasath-5502" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/guruprasath-5502?tab=repositories](https://github.com/guruprasath-5502?tab=repositories)
 
