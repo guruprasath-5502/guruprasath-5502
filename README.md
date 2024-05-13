@@ -17,7 +17,7 @@
 <ul>
 <li><p align="left">
 <a href="https://linkedin.com/in/guru--prasath" target="blank">LinkedIn</a>,
-<a href="https://www.leetcode.com/guru_prasath_2552" target="blank">Leetcode</a>,
+<a href="https://www.leetcode.com/Guru_Prasath_K_S" target="blank">Leetcode</a>,
 <a href="https://instagram.com/_.guru_prasath._" target="blank">Instagram</a>,
 <a href="https://twitter.com/Guru_Prasath_KS" target="blank">Twitter</a>.
 </p></li></ul>
