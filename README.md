@@ -49,8 +49,4 @@ const guru = {
 <br><br><br>
 </p>
 
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C750%20hrs-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.1%20million%20lines%20of%20code-blue)
-
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Guru_Prasath_K_S?theme=dark&font=Mallanna&ext=heatmap)
