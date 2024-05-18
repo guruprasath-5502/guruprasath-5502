@@ -25,15 +25,15 @@ const guru = {
 };
 ```
 
-<br>
-<h3 align="left">Find me online:</h3>
-<ul>
-<li><p align="left">
-<a href="https://linkedin.com/in/guru--prasath" target="blank">LinkedIn</a>,
+<br><br>
+
+**📫 Find me online :** <a href="https://linkedin.com/in/guru--prasath" target="blank">LinkedIn</a>,
 <a href="https://www.leetcode.com/Guru_Prasath_K_S" target="blank">Leetcode</a>,
 <a href="https://instagram.com/_.guru_prasath._" target="blank">Instagram</a>,
 <a href="https://twitter.com/Guru_Prasath_KS" target="blank">Twitter</a>,
 <a href="mailto:guruprasath2552@gmail.com" target="_blank">Email</a>.
-</p></li></ul><br><br>
+<br><br>
+
+**🐱 My LeetCode Data** 
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Guru_Prasath_K_S?theme=dark&font=Mallanna&ext=heatmap)
