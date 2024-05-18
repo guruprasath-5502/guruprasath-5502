@@ -4,14 +4,26 @@
 <h3 align="center">A passionate Full Stack Developer and Programmer | Final Year MSc Student in Software Systems | Eager to create impactful tech solutions | Embracing the journey of coding and problem-solving</h3>
 <br><br>
 
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
-
-- All of my projects are available at [https://github.com/guruprasath-5502](https://github.com/guruprasath-5502)
-
-- Ask me about **MERN, Data Structures and Algorithms.**
-
-- Email: <a href="mailto:guruprasath2552@gmail.com" target="_blank">guruprasath2552@gmail.com</a>
-
+```javascript
+const guru = {
+    pronouns: "He" | "Him",
+    code: ["C++", "Javascript", "Typescript"],
+    askMeAbout: ["web dev", "tech", "DSA"],
+    technologies: {
+        frontEnd: {
+            js: ["React"],
+        },
+        backEnd: {
+            js: ["Node", "Express"],
+        },
+        devOps: ["Nginx", "Docker🐳", "AWS"],
+        databases: ["MongoDB"],
+        misc: ["Firebase", "RabbitMQ", "GraphQL"]
+    },
+    architecture: ["Single page applications","Event Driven"],
+    focus: ["Competitive Programming"],
+};
+```
 <br>
 <h3 align="left">Find me online:</h3>
 <ul>
@@ -19,7 +31,8 @@
 <a href="https://linkedin.com/in/guru--prasath" target="blank">LinkedIn</a>,
 <a href="https://www.leetcode.com/Guru_Prasath_K_S" target="blank">Leetcode</a>,
 <a href="https://instagram.com/_.guru_prasath._" target="blank">Instagram</a>,
-<a href="https://twitter.com/Guru_Prasath_KS" target="blank">Twitter</a>.
+<a href="https://twitter.com/Guru_Prasath_KS" target="blank">Twitter</a>,
+<a href="mailto:guruprasath2552@gmail.com" target="_blank">Email</a>.
 </p></li></ul>
 
 
@@ -35,5 +48,9 @@
 <a href="https://graphql.org" target="_blank" rel="noreferrer"><img align="left" alt="GraphQL" width="30px" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" /></a>
 <br><br><br>
 </p>
+
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C750%20hrs-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.1%20million%20lines%20of%20code-blue)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Guru_Prasath_K_S?theme=dark&font=Mallanna&ext=heatmap)
