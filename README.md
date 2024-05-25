@@ -34,6 +34,6 @@ const guru = {
 <a href="mailto:guruprasath2552@gmail.com" target="_blank">Email</a>.
 <br><br>
 
-**🐱 My LeetCode Data** 
+**🐱 My LeetCode Stats** 
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Guru_Prasath_K_S?theme=dark&font=Mallanna&ext=heatmap)
