@@ -31,7 +31,8 @@ const guru = {
 <a href="https://www.leetcode.com/Guru_Prasath_K_S" target="blank">Leetcode</a>,
 <a href="https://instagram.com/_.guru_prasath._" target="blank">Instagram</a>,
 <a href="https://twitter.com/Guru_Prasath_KS" target="blank">Twitter</a>,
-<a href="mailto:guruprasath2552@gmail.com" target="_blank">Email</a>.
+<a href="mailto:guruprasath2552@gmail.com" target="_blank">Email</a>
+<a href="https://guruprasath.site" target="_blank">My Portfolio</a>.
 <br><br>
 
 **🐱 My LeetCode Stats** 
