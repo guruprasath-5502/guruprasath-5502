@@ -5,7 +5,7 @@
 <br><br>
 
 ```javascript
-const guru = {
+const aboutMe = {
     pronouns: "He" | "Him",
     code: ["C++", "Javascript", "Typescript"],
     askMeAbout: ["web dev", "tech", "DSA"],
